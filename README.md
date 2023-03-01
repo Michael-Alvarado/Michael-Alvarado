@@ -20,5 +20,5 @@ I’ve been learning to code for the past 6 months through UT Austin’s Coding 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Michael-Alvarado"><img src="https://github-readme-stats.vercel.app/api?username=Michael-Alvarado&show_icons=true&hide=&count_private=true&title_color=279AF1&text_color=F7F7FF&icon_color=279AF1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Michael-Alvarado's GitHub stats" /></a>
-<a href="http://www.github.com/Michael-Alvarado"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Michael-Alvarado&bg_color=1c1917&color=F7F7FF&line=279AF1&point=F7F7FF&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Michael-Alvarado"><img src="https://github-readme-stats.vercel.app/api?username=Michael-Alvarado&show_icons=true&hide=&count_private=true&title_color=279AF1&text_color=F7F7FF&icon_color=279AF1&bg_color=131112&hide_border=true&show_icons=true" alt="Michael-Alvarado's GitHub stats" /></a>
+<a href="http://www.github.com/Michael-Alvarado"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Michael-Alvarado&bg_color=131112&color=F7F7FF&line=279AF1&point=F7F7FF&area_color=131112&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
